@@ -1,2 +1,6 @@
 "ABCD"
+<<<<<<< HEAD
 nkjbj - 31
+=======
+nkjbj
+>>>>>>> origin/master
